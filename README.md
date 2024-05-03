@@ -31,7 +31,7 @@ The proposed Retail Management System Database (RMSD) addresses the complex need
 
 #### Project Features
 
-- The Infrastructure setup ( admin + store owner script) when run in order can be executed any number times without any ORA Errors
+- The Model/Schema setup ( admin + store owner script) when run in order can be executed any number times without any ORA Errors
 - Multiple Roles focussing on security and principle of least priviledge
 - Well defined Exception handling with clear and concise error messages
 - Input based reports to give quarterly analysis of the store
